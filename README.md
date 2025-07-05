@@ -1,4 +1,4 @@
 # apnacollege-demo
 This is my first Git repository.
 <br>
-Author-Shajal Mia
+Author-Shajal Mia(Apna College)
